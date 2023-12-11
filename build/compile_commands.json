@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/mheydari/Desktop/T/Q1/build",
+  "command": "/usr/bin/g++ -I/home/mheydari/Desktop/T/Q1/build -I/home/mheydari/Desktop/T/Q1 -g -std=gnu++11 -o CMakeFiles/Q1.dir/main.cpp.o -c /home/mheydari/Desktop/T/Q1/main.cpp",
+  "file": "/home/mheydari/Desktop/T/Q1/main.cpp"
+},
+{
+  "directory": "/home/mheydari/Desktop/T/Q1/build",
+  "command": "/usr/bin/g++ -I/home/mheydari/Desktop/T/Q1/build -I/home/mheydari/Desktop/T/Q1 -g -std=gnu++11 -o CMakeFiles/Q1.dir/NumberToJson.cpp.o -c /home/mheydari/Desktop/T/Q1/NumberToJson.cpp",
+  "file": "/home/mheydari/Desktop/T/Q1/NumberToJson.cpp"
+},
+{
+  "directory": "/home/mheydari/Desktop/T/Q1/build",
+  "command": "/usr/bin/g++ -I/home/mheydari/Desktop/T/Q1/build -I/home/mheydari/Desktop/T/Q1 -g -std=gnu++11 -o CMakeFiles/Q1.dir/Item.cpp.o -c /home/mheydari/Desktop/T/Q1/Item.cpp",
+  "file": "/home/mheydari/Desktop/T/Q1/Item.cpp"
+},
+{
+  "directory": "/home/mheydari/Desktop/T/Q1/build",
+  "command": "/usr/bin/g++ -I/home/mheydari/Desktop/T/Q1/build -I/home/mheydari/Desktop/T/Q1 -g -std=gnu++11 -o CMakeFiles/Q1.dir/JsonToNumber.cpp.o -c /home/mheydari/Desktop/T/Q1/JsonToNumber.cpp",
+  "file": "/home/mheydari/Desktop/T/Q1/JsonToNumber.cpp"
+},
+{
+  "directory": "/home/mheydari/Desktop/T/Q1/build",
+  "command": "/usr/bin/g++ -I/home/mheydari/Desktop/T/Q1/build -I/home/mheydari/Desktop/T/Q1 -g -std=gnu++11 -o CMakeFiles/Q1.dir/ToNumberThread.cpp.o -c /home/mheydari/Desktop/T/Q1/ToNumberThread.cpp",
+  "file": "/home/mheydari/Desktop/T/Q1/ToNumberThread.cpp"
+},
+{
+  "directory": "/home/mheydari/Desktop/T/Q1/build",
+  "command": "/usr/bin/g++ -I/home/mheydari/Desktop/T/Q1/build -I/home/mheydari/Desktop/T/Q1 -g -std=gnu++11 -o CMakeFiles/Q1.dir/ToJsonThread.cpp.o -c /home/mheydari/Desktop/T/Q1/ToJsonThread.cpp",
+  "file": "/home/mheydari/Desktop/T/Q1/ToJsonThread.cpp"
+}
+]
